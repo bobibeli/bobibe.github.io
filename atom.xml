@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bobibeli.github.io/</id>
     <title>小白 Be</title>
-    <updated>2020-08-27T14:26:37.716Z</updated>
+    <updated>2020-08-27T14:31:23.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bobibeli.github.io/"/>
     <link rel="self" href="https://bobibeli.github.io/atom.xml"/>
@@ -16,12 +16,18 @@
         <link href="https://bobibeli.github.io/post/intro/">
         </link>
         <updated>2020-08-27T10:49:52.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="作品文件">作品文件</h1>
+        <content type="html"><![CDATA[<h1 id="个人作品">个人作品</h1>
 <ul>
-<li>📋 <a href="https://bobibeli.github.io/post/resume"><strong>简历</strong></a></li>
-<li>📐 <a href="https://bobibeli.github.io/post/portfolio"><strong>作品集</strong></a></li>
+<li>
+<p>📋 <a href="https://bobibeli.github.io/post/resume"><strong>简历</strong></a></p>
+</li>
+<li>
+<p>📐 <a href="https://bobibeli.github.io/post/portfolio"><strong>作品集</strong></a></p>
+</li>
+<li>
+<p>💾 <strong>文件下载</strong>：<a href="https://github.com/bobibeli/bobibeli.github.io/tree/Portfolio" target="_self">GitHub</a> / <a href="https://pan.baidu.com/s/1FNr7g2En6aTI_tRyKAwE3w" target="_self">百度网盘</a>（提取码：w64z）</p>
+</li>
 </ul>
-<p>💾 <strong>合集下载</strong>：<a href="https://github.com/bobibeli/bobibeli.github.io/tree/Portfolio" target="_self">GitHub</a> / <a href="https://pan.baidu.com/s/1FNr7g2En6aTI_tRyKAwE3w" target="_self">百度网盘</a>（提取码：w64z）</p>
 <br />
 <h1 id="联系方式">联系方式</h1>
 <ul>
