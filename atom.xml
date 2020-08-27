@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bobibeli.github.io/</id>
     <title>小白 Be</title>
-    <updated>2020-08-27T13:51:58.242Z</updated>
+    <updated>2020-08-27T13:54:04.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bobibeli.github.io/"/>
     <link rel="self" href="https://bobibeli.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 小白 Be</rights>
     <entry>
         <title type="html"><![CDATA[Introducing bobibe_li]]></title>
-        <id>https://bobibeli.github.io/post/introducing-bobibe_li/</id>
-        <link href="https://bobibeli.github.io/post/introducing-bobibe_li/">
+        <id>https://bobibeli.github.io/post/about/</id>
+        <link href="https://bobibeli.github.io/post/about/">
         </link>
         <updated>2020-08-27T10:49:52.000Z</updated>
         <content type="html"><![CDATA[<p>你好！<br>
