@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bobibeli.github.io/</id>
     <title>小白 Be</title>
-    <updated>2020-08-27T14:50:50.955Z</updated>
+    <updated>2020-08-27T14:58:54.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bobibeli.github.io/"/>
     <link rel="self" href="https://bobibeli.github.io/atom.xml"/>
@@ -27,7 +27,7 @@
 <h1 id="联系方式">联系方式</h1>
 <ul>
 <li>📞 <strong>电话</strong>：<a href="tel:15623280569">15623280569</a></li>
-<li>📧 <strong>邮箱</strong>：<a href="wanlinews@outlook.com">wanlinews@outlook.com</a></li>
+<li>📧 <strong>邮箱</strong>：<a href="mailto:wanlinews@outlook.com">wanlinews@outlook.com</a></li>
 </ul>
 ]]></content>
     </entry>
